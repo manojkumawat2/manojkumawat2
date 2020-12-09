@@ -18,6 +18,13 @@ Here are some ideas to get you started:
 
 <br />
 
+---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  [![Manoj's github stats](https://github-readme-stats.vercel.app/api?username=manojkumawat2)]
+
+</details>
 
 
 [website]: http://manojkumawat.me/
