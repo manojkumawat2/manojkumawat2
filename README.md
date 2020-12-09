@@ -1,6 +1,6 @@
-## Hi there, I'm Manoj Kumawat 👋
+# Hi there, I'm Manoj Kumawat 👋
 
-### I'm a Full Stack Developer
+## I'm a Full Stack Developer
 
 Here are some ideas to get you started:
 
