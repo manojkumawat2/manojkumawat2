@@ -1,6 +1,5 @@
 ## Hi there, I'm Manoj Kumawat 👋
 ### I'm a Full Stack Developer
-<hr/>
 
 Here are some ideas to get you started:
 
